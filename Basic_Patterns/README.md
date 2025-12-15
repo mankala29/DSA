@@ -1,4 +1,4 @@
-Essential LeetCode List (curated for Guidewire)
+Essential LeetCode List (going over basic patterns)
 
 Hash Map
 
