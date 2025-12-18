@@ -9,7 +9,7 @@
 class Solution:
     def twoSum(nums, target):
         dictionary = {}
-        doff = 0
+        diff = 0
 
         for i,value in enumerate(nums):
             diff = target - value
